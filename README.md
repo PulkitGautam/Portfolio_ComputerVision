@@ -7,4 +7,4 @@ Personal portfolio website based on my resume.
 HTML, CSS, JavaScript
 
 ## Live
-](https://pulkitgautam.github.io/Portfolio_ComputerVision/Portfolio.html)
+(https://pulkitgautam.github.io/Portfolio_ComputerVision/Portfolio.html)
